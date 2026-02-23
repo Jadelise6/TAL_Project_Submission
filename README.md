@@ -1,5 +1,3 @@
-# TAL_Project_Commission
+# TAL_Project_Submission
 
 Thomas 21234701
-
-Le premier (seul) dossier contient les soumissions (.csv).
